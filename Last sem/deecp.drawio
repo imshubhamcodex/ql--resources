@@ -36,14 +36,17 @@
         <mxCell id="d_odd_yfgXuftzIRQ7Rk-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;Advance Node Fraction (m)&lt;/font&gt;" vertex="1">
           <mxGeometry height="36" width="151" x="70" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="d_odd_yfgXuftzIRQ7Rk-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(10, 10, 10);&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Energy Normalized Heterogeneity&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="117" x="284" y="197" as="geometry" />
-        </mxCell>
         <mxCell id="d_odd_yfgXuftzIRQ7Rk-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;color: rgb(10, 10, 10);&quot;&gt;Compute&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(10, 10, 10), rgb(229, 229, 229)); font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;DEECP Probability&lt;/span&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="20" width="170" x="304" y="120" as="geometry" />
         </mxCell>
         <mxCell id="d_odd_yfgXuftzIRQ7Rk-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;color: rgb(10, 10, 10);&quot;&gt;Compute&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(10, 10, 10), rgb(229, 229, 229)); font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent;&quot;&gt;Residual Energy&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="291" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="d_odd_yfgXuftzIRQ7Rk-10" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;rounded=0;fillColor=#ffff88;strokeColor=#36393d;" value="&lt;span style=&quot;color: rgb(10, 10, 10);&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Energy Normalized Heterogeneity&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="272.25" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="K9fZQaquLGAIo2zNHKjN-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(10, 10, 10);&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Compute advance &amp;amp; normal nodes&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="160.75" x="265.25" y="171" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
