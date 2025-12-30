@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Page-1" id="qgUBx2aXxK2wmCOCfIue">
-    <mxGraphModel dx="880" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="623" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,10 +50,7 @@
           <mxGeometry height="200" width="129" x="691" y="400" as="geometry" />
         </mxCell>
         <mxCell id="ovhiiqdM09qQ3LH4G113-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=13;" value="A_NOOP" vertex="1">
-          <mxGeometry height="30" width="60" x="695" y="405" as="geometry" />
-        </mxCell>
-        <mxCell id="ovhiiqdM09qQ3LH4G113-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=13;" value="A_REASSIGN_FEW" vertex="1">
-          <mxGeometry height="30" width="120" x="695" y="445" as="geometry" />
+          <mxGeometry height="30" width="60" x="695" y="407" as="geometry" />
         </mxCell>
         <mxCell id="ovhiiqdM09qQ3LH4G113-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=13;" value="A_SWITCH_CH" vertex="1">
           <mxGeometry height="30" width="100" x="695" y="485" as="geometry" />
@@ -109,6 +106,9 @@
         </mxCell>
         <mxCell id="ovhiiqdM09qQ3LH4G113-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Optimized Clusters&lt;/font&gt;" vertex="1">
           <mxGeometry height="35" width="81" x="431" y="584" as="geometry" />
+        </mxCell>
+        <mxCell id="ThkkA_e3IspT9wFqzVvq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=13;" value="A_REASSIGN" vertex="1">
+          <mxGeometry height="30" width="100" x="695" y="446" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
